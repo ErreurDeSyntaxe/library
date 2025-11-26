@@ -1,4 +1,5 @@
 # full-stack-library
+
 An in-browser interactive library
 
 # Preview
@@ -11,17 +12,17 @@ An in-browser interactive library
 
 -[Assignment Page (Jan '24)](https://www.theodinproject.com/lessons/node-path-javascript-library)
 
--[Finished Project](https://erreurdesyntaxe.github.io/full-stack-library)
+-[Finished Project](https://erreurdesyntaxe.github.io/library)
 
 # Notable Features
 
 -Ability to add and remove books  
--Ability to mark book as read or not  
+-Ability to mark book as read or not
 
 # Challenges
 
 -Modifying the DOM  
--Styling the page with Grid and Flexbox  
+-Styling the page with Grid and Flexbox
 
 # Lessons
 
@@ -32,5 +33,5 @@ An in-browser interactive library
 
 # Diary
 
-Nice JavaScript, CSS, and HTML practice. 
+Nice JavaScript, CSS, and HTML practice.
 Nine months later, I want to redo this project to implement better JS practices.
